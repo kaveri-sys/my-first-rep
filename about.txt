@@ -1,0 +1,3 @@
+Name: Netala Kaveri
+Course: B.Tech in Computer Science
+One thing I learned about GitHub: It helps in version control and collaboration with others.
